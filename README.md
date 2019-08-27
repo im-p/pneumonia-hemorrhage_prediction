@@ -1,1 +1,1 @@
-# pneumonia-hemorrhage_prediction
+# Keuhkokuumeen ja aivoverenvuodon tunnistus konvoluutioneuroverkon avulla
